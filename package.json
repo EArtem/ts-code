@@ -1,0 +1,16 @@
+{
+  "name": "artem-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "",
+    "dev": "nodemon --watch '**/*.ts' --exec 'ts-node' index.ts"
+  },
+  "author": "EArtem",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
